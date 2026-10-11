@@ -1,0 +1,6 @@
+{
+  "name": "QUẢN LÝ TỔ 3 – HỌC TẬP & THI ĐUA – LỚP 11A1",
+  "description": "Không gian học tập, cộng tác và thi đua của Tổ 3 - Lớp 11A1. Quản lý chuyên cần, điểm thi đua, tài liệu học tập, nhiệm vụ và nộp bài đa phương tiện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
